@@ -6,23 +6,24 @@
 /* Styles for the body */
 
 body {
-	font-family: Lato, "Open Sans", Roboto, "Segoe UI", "Helvetica Neue", Helvetica, Arial, sans-serif;
-	color: #202030;
-	background-color: #f8f8fc;
+	 font-family: "Yantramanav", sans-serif;
+	color: #000000;
+	background-color: #6A6A6A;
 }
 
 /* Styles for custom classes in the document. (There are more, try to find them out!) */
 
 .resume-header {
-    background-color: #e0f0ff;
+    background-color:#3C3C3C;
+	
 }
 
 .resume-main {
-	background-color: #fffefc;
+	background-color: #ECECEC;
 }
 
 .resume-aside {
-	background-color: #fff0e0;
+	background-color: #A1A1A1;
 }
 
 /* Styles for lists in the document */
@@ -36,7 +37,7 @@ body {
 }
 
 .biography-details li::before {
-	color: #EE7623;
+	color: #870002;
 }
 
 .biography-details li, .skill-list li {
@@ -51,6 +52,6 @@ body {
 }
 
 .janezaclass {
-	color: darkred; 
+	color: #D4D4D4; 
 	
 }

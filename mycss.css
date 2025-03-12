@@ -1,0 +1,40 @@
+@charset "UTF-8";
+
+.emblema-one-regular {
+  font-family: "Emblema One", system-ui;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.myboxtoto {
+    width: 227px;
+    height: 275px;
+    background-color: #FF3674;
+    margin-top: 58px;
+    color: #FF262A;
+}
+.myboxzozo {
+    width: 227px;
+    height: 275px;
+    background-color: #772EFF;
+    border-top-width: 58px;
+}
+
+
+.container-fluid {
+	background-color: burlywood
+}
+
+.roba {
+	background-color: blue;
+
+}
+.robb {
+	background-color: chartreuse
+}
+.robc {
+	background-color: hotpink
+}
+.robd {
+	background-color: green
+}
